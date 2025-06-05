@@ -1,6 +1,0 @@
-"DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
-"","580","Create a new board","","Wed Jun 04 23:02:12 BRT 2025","passed","Wed Jun 04 23:02:12 BRT 2025","","Trello API Test","",""
-"","545","Check the list of boards","","Wed Jun 04 23:02:12 BRT 2025","passed","Wed Jun 04 23:02:13 BRT 2025","","Trello API Test","",""
-"","1042","Delete the card","","Wed Jun 04 23:02:13 BRT 2025","passed","Wed Jun 04 23:02:14 BRT 2025","","Trello API Test","",""
-"","381","Create card on the board","","Wed Jun 04 23:02:13 BRT 2025","passed","Wed Jun 04 23:02:13 BRT 2025","","Trello API Test","",""
-"","1416","Delete the board","","Wed Jun 04 23:02:14 BRT 2025","passed","Wed Jun 04 23:02:16 BRT 2025","","Trello API Test","",""
