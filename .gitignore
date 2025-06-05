@@ -4,6 +4,7 @@ cypress/screenshots/
 allure-report/
 allure-results/
 package-lock.json
+cypress.env.json
 ## Env comentado para que CI possa funcionar. Por padrão não é publicado para que cada um posso clonar o repo na máquina e colocar suas credenciais. 
 ## Mas para que verifiquem a veracidade dos testes irei deixar com minhas credencias até visualizarem
 ## cypress.env.json
