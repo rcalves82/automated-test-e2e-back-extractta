@@ -16,6 +16,7 @@ Esta é uma prova de conceito que envolve BDD (Gherkin), querys SQL e teste back
 - **cypress.env.json** : Contém as variáveis de ambiente `apiKey` e `token`
 - **package.json** & **package-lock.json** : Contém todas dependências do projeto com a instalação de cada framework dessas dependências. O Arquivo `package.json` também serve para criação de scripts para facilitar na execução dos testes via linha de comando.
 - **README.md** : Documentação markdown, normalmente criada para informar o objetivo do projeto e orientar como executar o projeto.
+- **mind_map.png**: Esse arquivo é o mapa mental dos casos de testes criado no Canvan.
 - **allure** : Os diretorios allure-report e allure-results são reponsáveis em armazenar os arquivos que montam o relatório de executação dos testes.
 
 ## Como Executar
