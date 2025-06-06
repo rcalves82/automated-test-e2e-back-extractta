@@ -15,7 +15,14 @@ JOIN CURSA AS C ON D.codd = C.codd
 GROUP BY D.nome
 ORDER BY D.nome;
 
--- Escreva a consulta SQL para listar as disciplinas que todos os professores lecionam. 
+-- Escreva a consulta SQL para listar as disciplinas que todos os professores lecionam.
+SELECT D.nome AS nome_disciplina
+FROM DISCIPLINA AS D
+JOIN LECIONA AS L ON D.codd = L.codd
+GROUP BY D.codd, D.nome
+HAVING COUNT(DISTINCT L.codp) = (SELECT COUNT(*) FROM PROFESSOR);
+
+-- Escreva a consulta SQL que exibe o total de professores. 
 SELECT COUNT(*) AS total_professores
 FROM PROFESSOR;
 
