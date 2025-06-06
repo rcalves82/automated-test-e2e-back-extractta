@@ -39,7 +39,7 @@ Esta é uma prova de conceito que envolve BDD (Gherkin), querys SQL e teste back
 ### Excução dos testes
 - **npm run cypress:open** -> Para abrir o Cypress em modo de Inteface Gráfica atrvés do browser.
 - **npm run cypress:run** -> Para executar os testes em modo headless.
-- **npm run test:allure** -> Para executar os testes em ao termino gerar os arquivos que montam o relatório de testes.
+- **npm run test:allure** -> Para executar os testes e ao termino gerar os arquivos que montam o relatório de testes.
 - **npm run allure:open** -> Para abrir o relatório no browser apos finalização dos testes.
 - **npm run allure:clean** -> Para limpar os arquivos gerados do relatório.
 
