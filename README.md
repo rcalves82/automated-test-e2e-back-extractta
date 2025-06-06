@@ -6,7 +6,7 @@ Esta é uma prova de conceito que envolve BDD (Gherkin), querys SQL e teste back
 - **bdd** -> contém arquivo `.featura` com cenários de testes escritos com linguagem Gherkin, e arquivo de imagem da tela de transição bancária, referencia utilizada para criação dos cenários de teste.
 - **sql** -> contém o arquivo `.sql` com as querys criadas e o arquivo de imagem com esquema do banco de dados. 
 
-# Estrutura do projeto de testes automatizados
+# Estrutura do projeto de testes automatizado
 
 - **cypress** : Pasta raiz que contém os recursos utlizados no testes relacionados ao Cypress.
 - **e2e** : Contém os arquivos `authentication.cy.js` e `trello_api_tests.cy.js` com os cenários dos testes.
