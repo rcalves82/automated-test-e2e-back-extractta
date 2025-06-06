@@ -1,4 +1,5 @@
 {
+  "$schema": "https://raw.githubusercontent.com/SchemaStore/schemastore/master/src/schemas/json/package.json",
   "name": "automated-test-e2e-back-extractta",
   "version": "1.0.0",
   "description": "Test Extractta RCA",
@@ -30,4 +31,4 @@
     "@shelex/cypress-allure-plugin": "^2.41.2",
     "allure-commandline": "^2.34.0"
   }
-}
+} 
