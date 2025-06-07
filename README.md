@@ -1,9 +1,9 @@
 # Projeto de testes Extractta.
 Esta é uma prova de conceito que envolve BDD (Gherkin), querys SQL e teste back-end com framework Cypress com linguagem de Programação JavaScript.
 
-## Diretório principais 
+## Diretórios principais 
 - **api_test** -> contém os testes automatizados de back-end utilizando Cypress com JavaScript
-- **bdd** -> contém arquivo `.featura` com cenários de testes escritos com linguagem Gherkin, e arquivo de imagem da tela de transição bancária, referencia utilizada para criação dos cenários de teste.
+- **bdd** -> contém arquivo `.feature` com cenários de testes escritos com linguagem Gherkin, e arquivo de imagem da tela de transição bancária, referencia utilizada para criação dos cenários de teste.
 - **sql** -> contém o arquivo `.sql` com as querys criadas e o arquivo de imagem com esquema do banco de dados. 
 
 # Estrutura do projeto de testes automatizado
